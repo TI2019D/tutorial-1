@@ -1,2 +1,3 @@
-def hello_world():
-    return "Hello!"
+def main():
+    # Ubah menjadi "Hello World!"
+    return "Hello!" 
